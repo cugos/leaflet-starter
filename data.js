@@ -1,3 +1,3 @@
-var geojsonData = {
+var geojson = {
 	// your geojson here
 };
